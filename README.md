@@ -5,7 +5,7 @@ Welcome to our Weather App, a user-friendly and visually appealing React.js appl
 <br/>
 
 ### 🖼 Image :
-<img src="./images/Wheather App.png"  width="650" height="450" >
+<img src="./images/Wheather App.png"  width="680" height="450" >
 
 ##  🔑 Key Features:
 
