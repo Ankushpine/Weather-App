@@ -1,7 +1,7 @@
 ## Weather App 🌩
 Welcome to our Weather App, a user-friendly and visually appealing React.js application that keeps you informed about the current weather conditions effortlessly. Powered by a reliable weather API, our app provides detailed information to help you plan your day with confidence.
 
-### 🔗 Hosted Link : 
+### 🔗 Hosted Link : https://pine-wheather-app.netlify.app
 <br/>
 
 ### 🖼 Image :
