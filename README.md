@@ -17,7 +17,7 @@ Welcome to our Weather App, a user-friendly and visually appealing React.js appl
 
 ✅ <b>Feels Like</b> : Get an accurate representation of how the weather feels, taking into account factors like humidity and wind speed.
 
-✅ <b>Wind Information<b/> : Stay informed about the wind speed and direction, crucial details for outdoor activities or travel planning.
+✅ <b>Wind Information</b> : Stay informed about the wind speed and direction, crucial details for outdoor activities or travel planning.
 
 ✅ <b>Weather Description with Picture</b> : Receive a concise yet comprehensive description of the current weather conditions, accompanied by visually appealing icons that represent the weather status.
 
