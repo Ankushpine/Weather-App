@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = `8a3a970a15a82a5462bbbeaf6f400e77`;
+const API_KEY = process.env.REACT_APP_API_KEY;
 const makeIconUrl = (iconId) => ` https://openweathermap.org/img/wn/${iconId}@2x.png`;
 
 const WheatherData = async (city, units = "metric") => {
