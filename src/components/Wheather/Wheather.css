@@ -1,0 +1,112 @@
+:root {
+  --section-overlay: rgba(0, 0, 0, 0.7);
+  --background-overlay: rgba(0, 0, 0, 0.2);
+}
+
+.app {
+  height: 100vh;
+  width: 100%;
+}
+
+.overlay {
+  height: 100vh;
+  width: 100%;
+  background-color: var(--background-overlay);
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.section {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.4rem;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+.section__inputs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--section-overlay);
+}
+
+.section__temperature {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--section-overlay);
+}
+
+.section__inputs > input {
+  border: 0.8px solid #fff;
+  border-radius: 0.4rem;
+  background-color: transparent;
+  color: #fff;
+  padding: 0.5rem;
+  font-size: 15px;
+  font-weight: 200;
+  margin-left: 0.2rem;
+  max-width: 70%;
+}
+
+.section__inputs > input:focus {
+  outline: none;
+}
+
+.SearchIcon {
+  position: relative;
+  left: -21px;
+  cursor: pointer;
+}
+
+.section__inputs > button {
+  padding: 5px 20px;
+  border: none;
+  border-radius: 0.4rem;
+  font-size: 21px;
+  font-weight: 500;
+  background-color: #fff;
+}
+
+.section__inputs > button:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}
+
+.icon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon > h3 {
+  font-size: 15px;
+  font-weight: 400;
+  text-transform: capitalize;
+}
+
+.temperature > h1 {
+  font-size: 37px;
+}
+
+.Error {
+  color: #fff;
+  background-color: var(--section-overlay);
+  border-radius: 0.5rem;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  top: -447px;
+  font-size: 21px;
+}
