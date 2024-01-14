@@ -23,7 +23,7 @@ Welcome to our Weather App, a user-friendly and visually appealing React.js appl
 
 ✅ <b>Unit Conversion</b> : Tailor the app to your preferences by seamlessly switching between Fahrenheit and Celsius units for temperature. This feature ensures that you can view the weather information in the units you are most comfortable with.
 
-## ⚒ Libraries Used:
+## ⚒ Libraries Used :
 - axios
 - react-icons
 
