@@ -7,7 +7,7 @@ Welcome to our Weather App, a user-friendly and visually appealing React.js appl
 ### 🖼 Image :
 <img src="./images/Wheather App.png"  width="680" height="450" >
 
-##  🔑 Key Features:
+##  🔑 Key Features :
 
 ✅ <b>Temperature Overview</b> : Instantly view the current temperature at your location, ensuring you are always in the know about the immediate weather conditions.
 
@@ -23,7 +23,7 @@ Welcome to our Weather App, a user-friendly and visually appealing React.js appl
 
 ✅ <b>Unit Conversion</b> : Tailor the app to your preferences by seamlessly switching between Fahrenheit and Celsius units for temperature. This feature ensures that you can view the weather information in the units you are most comfortable with.
 
-### ⚒ Libraries Used:
+## ⚒ Libraries Used:
 - axios
 - react-icons
 
